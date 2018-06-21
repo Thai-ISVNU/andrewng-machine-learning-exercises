@@ -1,0 +1,5 @@
+# Images directories
+ex*/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
